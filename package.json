@@ -1,0 +1,12 @@
+{
+  "name": "dungeons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
